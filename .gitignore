@@ -28,3 +28,17 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Compiled Java files
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Generated demo files and quarantine
+demo-data/
+
+# Operating system files
+.DS_Store
+Thumbs.db
